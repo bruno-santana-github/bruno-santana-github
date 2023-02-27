@@ -16,7 +16,7 @@
 
 <br>
 
-## :chart_with_upwards_trend: Minhas estatísticas
+## :chart_with_upwards_trend: My statistics
 
 <div align="center">
   <a href="https://github.com/bruno-santana-github">
