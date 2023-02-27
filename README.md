@@ -1,8 +1,8 @@
-# Olá, me chamo Bruno Santana.
-## Seja bem-vindo(a)!
+# Hi, I call me Bruno Santana!
+## Welcome to my Github!
 
-<p>Tenho 37 anos, sou um desenvolvedor FullStack e com formação inicial em Análise e  Desenvolvimento de Sistemas.</p> 
-<p>Agora estou cursando Ciências da Computação e cada vez mais apaixonado por desenvolvimento web.</p>
+<p>I am 38 years old, married, and the father of two beautiful princesses. A year ago I started my career transition to become a Fullstack Developer. Currently, I'm studying Computer Science and looking for an opportunity with a collaborative and challenging team where I can develop my skills and impact users' lives by providing technological solutions to the most diverse problems.</p> 
+
 
 <div align='center'>
   <h2>
@@ -10,7 +10,7 @@
     target="_blank"
     style="text-decoration: none"
     href="https://github.com/bruno-santana-github?tab=stars"
-    >Acesse meus repositórios aqui</a>
+    >Access my repositories here</a>
   </h2>
 </div>
 
@@ -28,7 +28,7 @@
 </div>
 
 
-## ✔️ Minhas Skill's
+## ✔️ My Skill's
 
 <div>
   <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
@@ -45,7 +45,7 @@
 </div>
 <br>
 
-## :rocket: Estou me aprofundando no momento:
+## :rocket: I'm deepening at the moment:
   
 <div>
   <img align="center"  height="50" width="50" src="https://user-images.githubusercontent.com/108142878/205117966-f1d99b12-7767-4298-b5e8-c3ddc64b4f82.png"/>
@@ -56,7 +56,7 @@
 </div>
 <br>
   
-## :mag_right: Já dei umas voltas por:
+## :mag_right: I've already turned around:
   
 <div>
   <img align="center"  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"/>
@@ -66,7 +66,7 @@
 </div>
 <br>
 
-## Meus Contatos
+## My Contacts
   <a href="mailto:brunomoraes.bm.bm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/bruno-santana-moraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/falcao.moraes"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
