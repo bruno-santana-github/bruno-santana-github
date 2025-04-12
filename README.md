@@ -1,7 +1,7 @@
-# Hi, I call me Bruno Santana!
+# Hi, I call me Bruno Moraes!
 ## Welcome to my Github!
 
-<p>I am 38 years old, married, and the father of two beautiful princesses. A year ago I started my career transition to become a Fullstack Developer. Currently, I'm studying Computer Science and looking for an opportunity with a collaborative and challenging team where I can develop my skills and impact users' lives by providing technological solutions to the most diverse problems.</p> 
+<p>Runs Unix, Not Only</p> 
 
 
 <div align='center'>
